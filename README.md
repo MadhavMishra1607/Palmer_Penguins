@@ -8,4 +8,5 @@ bill_depth_mm: The depth of the penguin's bill in millimeters <br>
 flipper_length_mm: The length of the penguin's flippers in millimeters <br>
 body_mass_g: The mass of the penguin in grams <br>
 sex: The sex of the penguin (male or female) <br>
+
 The palmerpenguins dataset is a great resource for data exploration and visualization. It can be used to learn about the different penguin species, their habitat, and their physical characteristics. The dataset can also be used to explore relationships between different variables, such as the relationship between bill length and flipper length.
